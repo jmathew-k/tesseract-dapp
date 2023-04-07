@@ -19,7 +19,7 @@ const nav = [
   },
   {
     title: "Transactions",
-    counter: "256k",
+    counter: "2k",
     icon: "activity",
     color: "#CABDFF",
     value: 37.8,

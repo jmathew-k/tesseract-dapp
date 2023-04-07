@@ -20,39 +20,39 @@ const socials = [
 
 const Profile = () => {
   return (
-    <div className={styles.profile}>
-      <div className={styles.details}>
-        <div className={styles.avatar}>
-          <img src="/images/content/avatar.jpg" alt="Avatar" />
-          <button className={styles.add}>
-            <Icon name="add" />
-          </button>
-        </div>
-        <div className={styles.wrap}>
-          <div className={cn("h4", styles.man)}>Chelsie Haley</div>
-          <div className={styles.info}>
-            Dream big. Think different. Do great!
-          </div>
-        </div>
-      </div>
-      <div className={styles.contacts}>
-        <div className={styles.socials}>
-          {socials.map((x, index) => (
-            <a
-              className={styles.social}
-              href={x.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              key={index}
-            >
-              <Icon name={x.title} size="24" />
-            </a>
-          ))}
-        </div>
-        <button className={cn("button", styles.button)}>Follow</button>
-      </div>
-    </div>
-  );
+		<div className={styles.profile}>
+			<div className={styles.details}>
+				<div className={styles.avatar}>
+					<img src='/images/LEGO_logo.svg' alt='Avatar' />
+					<button className={styles.add}>
+						<Icon name='add' />
+					</button>
+				</div>
+				<div className={styles.wrap}>
+					<div className={cn('h4', styles.man)}>Lego Adventures</div>
+					<div className={styles.info}>
+						Marooned Island Escape 
+					</div>
+				</div>
+			</div>
+			<div className={styles.contacts}>
+				<div className={styles.socials}>
+					{socials.map((x, index) => (
+						<a
+							className={styles.social}
+							href={x.url}
+							target='_blank'
+							rel='noopener noreferrer'
+							key={index}
+						>
+							<Icon name={x.title} size='24' />
+						</a>
+					))}
+				</div>
+				<button className={cn('button', styles.button)}>Follow</button>
+			</div>
+		</div>
+	)
 };
 
 export default Profile;

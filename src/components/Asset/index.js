@@ -39,9 +39,9 @@ const Asset = ({
       <div className={styles.line}>
         <div className={styles.title}>{item.asset}</div>
         {item.price > 0 ? (
-          <div className={styles.price}>${item.price}</div>
+          <div className={styles.price}>Ξ{item.price}</div>
         ) : (
-          <div className={styles.empty}>${item.price}</div>
+          <div className={styles.empty}>Ξ{item.price}</div>
         )}
       </div>
       {released ? (

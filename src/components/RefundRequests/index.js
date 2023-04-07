@@ -8,7 +8,7 @@ import Icon from "../Icon";
 const requests = [
   {
     content:
-      'You have <strong>52 open refund requests</strong> to action. This includes <strong>8 new requests</strong>. <span role="img" aria-label="smile">👀</span>',
+      'You have <strong>52 open user requests</strong> to action. This includes <strong>8 new requests</strong>. <span role="img" aria-label="smile">👀</span>',
     icon: "basket",
     fill: "#FF6A55",
     color: "#FFE7E4",
@@ -40,7 +40,7 @@ const RefundRequests = ({ className, title, classTitle }) => {
           className={cn("button-stroke", styles.button)}
           to="/income/refunds"
         >
-          Review refund requests
+          Review requests
         </Link>
       </div>
     </Card>

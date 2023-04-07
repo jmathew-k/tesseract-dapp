@@ -13,7 +13,7 @@ const intervals = ["24h","7d", "30d", "All"];
 const items = [
   {
     title: "People reached",
-    counter: "256k",
+    counter: "2k",
     icon: "profile-circle",
     color: "#B5E4CA",
     tooltip: "Small description People reached",

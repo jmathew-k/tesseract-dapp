@@ -11,7 +11,7 @@ export const comments = [
     comment: "Awesome, keep it up",
   },
   {
-    id: 1,
+    id: 1, 
     asset: "Node - Crypto iOS UI design kit",
     category: "UI design kit",
     image: "/images/content/asset-pic-2.jpg",

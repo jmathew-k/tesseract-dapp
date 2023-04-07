@@ -15,7 +15,7 @@ const tips = [
     action: "3 mins read",
   },
   {
-    title: "Asset use guidelines",
+    title: "SDK guidelines",
     icon: "arrow-right",
     statusColor: "green",
     statusText: "Small label",
@@ -29,7 +29,7 @@ const tips = [
     action: "2 mins read",
   },
   {
-    title: "Behind the scenes",
+    title: "Product Manual",
     icon: "video-recorder",
     statusColor: "red",
     statusText: "Hot",
@@ -37,7 +37,7 @@ const tips = [
     action: "3 mins read",
   },
   {
-    title: "Asset use guidelines",
+    title: "Asset guidelines",
     icon: "phone",
     statusColor: "green",
     statusText: "Popular",
@@ -45,7 +45,7 @@ const tips = [
     action: "Time",
   },
   {
-    title: "Life & work updates",
+    title: "Stack updates",
     icon: "multiselect",
     avatar: "/images/content/avatar-4.jpg",
     action: "3 mins read",

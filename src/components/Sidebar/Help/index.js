@@ -16,7 +16,7 @@ const items = [
     time: "3 mins",
   },
   {
-    title: "Behind the scenes",
+    title: "SDK user guidelines",
     image: "/images/content/asset-pic-2.jpg",
     image2x: "/images/content/asset-pic-2@2x.jpg",
     statusText: "New",
@@ -32,7 +32,7 @@ const items = [
     time: "8 mins",
   },
   {
-    title: "Life & work update",
+    title: "Product updates",
     image: "/images/content/asset-pic-4.jpg",
     image2x: "/images/content/asset-pic-4@2x.jpg",
     avatar: "/images/content/avatar-4.jpg",

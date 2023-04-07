@@ -8,28 +8,28 @@ import Favorite from "../../../components/Favorite";
 
 const comments = [
   {
-    title: "Ox36463..",
-    login: "@SamCorey",
+    title: "0x36463..",
+    login: "traderx.eth",
     time: "1h",
-    content: "On <strong>Smiles – 3D icons</strong>",
+    content: "On <strong>Lego Adventures – Game</strong>",
     comment: 'Great work <span role="img" aria-label="smile">😊</span>',
-    avatar: "/images/content/avatar.jpg",
+    avatar: "/images/content/traderx.png",
   },
   {
-    title: "Jazmyn",
-    login: "@jaz.designer",
+    title: "0x68464...",
+    login: "crypton.eth",
     time: "8h",
-    content: "On <strong>Fleet - Travel shopping</strong>",
-    comment: "I need react version asap!",
-    avatar: "/images/content/avatar-1.jpg",
+    content: "On <strong>Lego Adventures – Game</strong>",
+    comment: "I need bug fix for level2 !",
+    avatar: "/images/content/cryptron.png",
   },
   {
-    title: "Ethel",
-    login: "@ethel",
+    title: "0x47781..",
+    login: "blockhunter.eth",
     time: "1h",
-    content: "On <strong>Smiles – 3D icons</strong>",
-    comment: "How can I buy only the design?",
-    avatar: "/images/content/avatar-2.jpg",
+    content: "On <strong>Lego Adventures – Game</strong>",
+    comment: "How can I get the v3 asset?",
+    avatar: "/images/content/blockhunter.png",
   },
 ];
 

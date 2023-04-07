@@ -6,18 +6,18 @@ import Icon from "../Icon";
 
 const users = [
   {
-    title: "Dean",
-    avatar: "/images/content/avatar-1.jpg",
+    title: "razor.eth",
+    avatar: "/images/content/razor.png",
     url: "/message-center",
   },
   {
-    title: "Robert",
-    avatar: "/images/content/avatar-2.jpg",
+    title: "zkpunk.eth",
+    avatar: "/images/content/zkpunk.png",
     url: "/message-center",
   },
   {
-    title: "Emma",
-    avatar: "/images/content/avatar-4.jpg",
+    title: "kategg.eth",
+    avatar: "/images/content/kategg.png",
     url: "/message-center",
   },
 ];
@@ -27,7 +27,7 @@ const Users = ({ className }) => {
     <div className={cn(styles.users, className)}>
       <div className={styles.head}>
         <div className={styles.info}>
-          Beam <strong>77 users</strong> with a notifcation{" "}
+          Beam <strong>727 users</strong> with a notifcation{" "}
           <span role="img" aria-label="smile">
             
           </span>

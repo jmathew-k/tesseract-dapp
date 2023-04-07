@@ -1,11 +1,12 @@
 export const assets = [
   {
     id: 0,
-    asset: "Bento Matte 3D Illustration",
+    asset: "Astronaut Galactic Kit v2",
     link: "ui8.net/asset/asset-link",
-    image: "/images/content/asset-pic-1.jpg",
-    image2x: "/images/content/asset-pic-1@2x.jpg",
-    price: 98,
+    image: "/images/content/astronaut.png",
+    image2x: "/images/content/astronaut.png",
+    
+    price: 0.38,
     date: "Apr 3, 2021 at 3:55 PM",
     ratingValue: 4.8,
     ratingCounter: 87,

@@ -3,7 +3,7 @@ import { progress } from "../utils";
 export const market = [
   {
     id: 0,
-    asset: "Bento Matte 3D Illustration",
+    asset: "Bento ",
     category: "UI design kit",
     image: "/images/content/asset-pic-1.jpg",
     image2x: "/images/content/asset-pic-1@2x.jpg",
@@ -108,7 +108,7 @@ export const market = [
   },
   {
     id: 7,
-    asset: "Bento Matte 3D Illustration",
+    asset: "Bento ",
     category: "UI design kit",
     image: "/images/content/asset-pic-2.jpg",
     image2x: "/images/content/asset-pic-2@2x.jpg",
@@ -156,7 +156,7 @@ export const market = [
 export const released = [
   {
     id: 0,
-    asset: "Bento Matte 3D Illustration",
+    asset: "Astro",
     category: "UI design kit",
     image: "/images/content/asset-pic-1.jpg",
     image2x: "/images/content/asset-pic-1@2x.jpg",

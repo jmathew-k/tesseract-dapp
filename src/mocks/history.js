@@ -1,7 +1,7 @@
 export const history = [
   {
     id: 0,
-    asset: "Bento Matte 3D Illustration",
+    asset: "Astro",
     link: "ui8.net/asset/asset-link",
     image: "/images/content/asset-pic-1.jpg",
     image2x: "/images/content/asset-pic-1@2x.jpg",

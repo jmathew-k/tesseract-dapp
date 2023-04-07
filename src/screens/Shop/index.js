@@ -65,7 +65,7 @@ const Shop = () => {
                 <div className={styles.assets}>
                   {assets.map((x, index) => (
                     <Asset
-                      className={styles.assets}
+                      className={styles.asset}
                       item={x}
                       key={index}
                       withoutСheckbox

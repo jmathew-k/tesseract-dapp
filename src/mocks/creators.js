@@ -8,8 +8,8 @@ export const creators = [
     followers: 3568,
     assets: [
       {
-        image: "/images/content/asset-pic-1.jpg",
-        image2x: "/images/content/asset-pic-1@2x.jpg",
+        image: "/images/content/astronaut.png",
+        image2x: "/images/content/astronaut.png",
       },
       {
         image: "/images/content/asset-pic-2.jpg",
